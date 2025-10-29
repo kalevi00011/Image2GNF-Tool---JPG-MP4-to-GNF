@@ -23,8 +23,9 @@ Perfect for **PS4/PS5 texture modding**, **game development**, or **asset pipeli
 ## Screenshot
 
 **Tool Interface**
+<img width="1093" height="729" alt="Screenshot 2025-10-29 132356" src="https://github.com/user-attachments/assets/3065fe42-4d70-4c08-a7d6-f6d6ee021e61" />
 
-<img width="1093" height="729" alt="Screenshot 2025-10-29 132356" src="https://github.com/user-attachments/assets/f76f79dd-b732-47c1-8229-e98a0d36977f" />
+
 
 ---
 

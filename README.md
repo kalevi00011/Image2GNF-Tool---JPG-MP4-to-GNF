@@ -2,7 +2,7 @@
 
 **A clean, user-friendly Windows GUI tool to convert JPG images or MP4 videos into PlayStation GNF texture arrays using `image2gnf.exe`.**
 
-Perfect for **PS4/PS5 texture modding**, **game development**, or **asset pipelines**.
+Perfect for **PS4/PS5 texture modding**
 
 ---
 
